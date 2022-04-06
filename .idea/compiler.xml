@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-community-mall-user" />
+        <module name="cloud-community-mall-zuul" />
+        <module name="cloud-community-mall-eureka-server" />
+        <module name="cloud-community-mall-common" />
+        <module name="cloud-community-mall-product-category" />
+        <module name="cloud-community-mall-cart-order" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-community-mall-cart-order" options="-parameters" />
+      <module name="cloud-community-mall-common" options="-parameters" />
+      <module name="cloud-community-mall-eureka-server" options="-parameters" />
+      <module name="cloud-community-mall-product-category" options="-parameters" />
+      <module name="cloud-community-mall-user" options="-parameters" />
+      <module name="cloud-community-mall-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

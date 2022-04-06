@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/cloud-community-mall-cart-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-community-mall-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-community-mall-eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-community-mall-product-category/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-community-mall-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/cloud-community-mall-zuul/src/main/java" charset="UTF-8" />
+  </component>
+</project>
